@@ -24,11 +24,6 @@ export default function Home() {
         <h2>learn, apply, grow</h2>
         <img class="rocket" src="src/assets/rocket.png" alt="rocketship"/>
     </section>
-
-      <footer class="footer">
-      <h5>Made by Rizandicoot</h5>
-
-    </footer>
     </div>
     
 
