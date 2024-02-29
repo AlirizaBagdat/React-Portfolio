@@ -2,8 +2,6 @@ import React from "react";
 
 export default function Header(){
     return (
-        <header>
-            <h1>RZNDCT</h1>
-        </header>
+        <img class="bandicoot" src="src/assets/bandicoot.jpeg" alt="Crash bandicoot"/>
     );
 }
