@@ -2,7 +2,7 @@ import Header from "./Header";
 import '../styles/Header.css';
 import '../styles/NavTabs.css';
 
-function NavTabs({ currentPage, handlePageChange }) {
+function NavTabs({ currentPage, handlePageChange })  {
   return (
     <ul className="nav nav-tabs">
       <li className="nav-item">
@@ -28,11 +28,11 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#blog"
-          onClick={() => handlePageChange('Blog')}
-          className={currentPage === 'Blog' ? 'nav-link active' : 'nav-link'}
+          href="#portfolio"
+          onClick={() => handlePageChange('Portfolio')}
+          className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
         >
-          Blog
+          Portfolio
         </a>
       </li>
       <li className="nav-item">

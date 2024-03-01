@@ -1,7 +1,7 @@
 import '../../styles/about.css'
 export default function About() {
   return (
-    <div className='aboutdiv'>
+    <div>
       <h1 className="about">About </h1>
       <p className="aboutp">
       As a full stack developer, I'm on a mission to craft digital experiences that transcend the ordinary. With
