@@ -57,7 +57,7 @@ Once the server is running, navigate to `http://localhost:3001` in your web brow
 
 ## Deployment
 
-This application is deployed on Heroku. Check out the live application [here](https://).
+This application is deployed on Heroku. Check out the live application [here](https://main--zesty-mochi-fd4a9d.netlify.app).
 
 ## Contributing
 
