@@ -1,0 +1,18 @@
+.nav {
+    background-color: #53a8b6;
+    padding: 10px;
+}
+.nav-item{
+    margin: 10px;
+}
+
+.nav a{
+    color: #13293d;
+    /* padding: 14px 20px; */
+    text-decoration: none;
+    text-align: center;  
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    
+}
